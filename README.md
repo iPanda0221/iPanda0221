@@ -1,5 +1,5 @@
 <h2>:wave: About Me</h2>
-Hello, I'm **<font color="#F31199">{Full-Stack Engineer}</font>**!
+Hello, I'm **<font color="#F31199">Luke Parker</font>**!
 Senior software engineer with 10 years of experience with a passion for both personal growth and software development. Detail-oriented, organized, and meticulous employee. Quick learner, strong reasoning, and problem-solving skills. :facepunch:
 <h2>:clipboard: Responsibilities</h2>
 - **{Project Management}**: Overseeing the technical aspects of various projects, ensuring timely delivery and high-quality output.
