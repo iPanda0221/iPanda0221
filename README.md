@@ -1,46 +1,42 @@
 <h2>:wave: About Me</h2>
-Hello, I'm **<font color="#F31199">Luke Parker</font>**!
-Senior software engineer with 10 years of experience with a passion for both personal growth and software development. Detail-oriented, organized, and meticulous employee. Quick learner, strong reasoning, and problem-solving skills. :facepunch:
-<h2>:clipboard: Responsibilities</h2>
-- **{Project Management}**: Overseeing the technical aspects of various projects, ensuring timely delivery and high-quality output.
-- **{Backend Development}**: Architecting and implementing robust server-side solutions.
-- **{Frontend Development}**: Creating responsive and intuitive user interfaces.
-- **{Cloud-Based Solutions}**: Integrating AWS, Azure services.
-- **{Linux Cloud Server Deployment and Maintenance}**: Ensuring smooth operation and optimal performance of cloud-based infrastructure.
+Hi, I'm <b>Peter Lin</b>!
+
+Senior Software Engineer with 12 years of experience building scalable backend systems, APIs, real-time data pipelines, and full-stack applications. Currently at Google, working on large-scale systems for Google Ads.
+
 <h2>:sunglasses: My Skills</h2>
 <table align="center">
 <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
+      <br>Go
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=cs" width="45" height="45" alt="Laravel" />
+      <br>C#
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring " width="45" height="45"/>
-      <br>Spring
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="ts" />
+      <br>TypeScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="ts" />
-      <br>TS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
-      <br>go
+      <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring " width="45" height="45"/>
+      <br>Spring
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
@@ -48,12 +44,16 @@ Senior software engineer with 10 years of experience with a passion for both per
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <br>Postgres
     </td>
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -67,10 +67,6 @@ Senior software engineer with 10 years of experience with a passion for both per
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
@@ -95,24 +91,28 @@ Senior software engineer with 10 years of experience with a passion for both per
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>AWS
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" />
+      <br>GCP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
       <br>Azure
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="dynamodb" />
-      <br>Dynamodb
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="45" height="45" />
+      <br>AWS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="kubernetes" />
       <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="terraform" />
+      <br>Terraform
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="elasticsearch" />
@@ -127,17 +127,8 @@ Senior software engineer with 10 years of experience with a passion for both per
       <br>Gradle
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="maven" />
       <br>Maven
     </td>
   </tr>
 </table>
-<h2>:trophy: GitHub Activity</h2>
-<p>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=devstar829&theme=onedark&column=-1&margin-w=15" />
-</p>
-<br/>
